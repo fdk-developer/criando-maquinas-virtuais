@@ -27,6 +27,3 @@ Distribua as VMs automaticamente entre vários domínios de falha
 - GPR (armazemaneto com redundância geográfica);
 - ZRS (armazenamento com redundância de zona);
 - GZRS (armazenamento com redundância de zona geográfica).
-
-
-# Armazenamento 
